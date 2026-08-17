@@ -1,0 +1,19 @@
+branch_id,branch_name,city,state
+B00101,Hyderabad Central Branch,Hyderabad,Telangana
+B00101,Warangal Central Branch,Warangal,Telangana
+B00201,Vijayawada Central Branch,Vijayawada,Andhra Pradesh
+B00201,Visakhapatnam Central Branch,Visakhapatnam,Andhra Pradesh
+B00301,Bengaluru Central Branch,Bengaluru,Karnataka
+B00301,Mysuru Central Branch,Mysuru,Karnataka
+B00401,Chennai Central Branch,Chennai,Tamil Nadu
+B00401,Coimbatore Central Branch,Coimbatore,Tamil Nadu
+B00501,Mumbai Central Branch,Mumbai,Maharashtra
+B00501,Pune Central Branch,Pune,Maharashtra
+B00601,Ahmedabad Central Branch,Ahmedabad,Gujarat
+B00601,Surat Central Branch,Surat,Gujarat
+B00701,New Delhi Central Branch,New Delhi,Delhi
+B00801,Kolkata Central Branch,Kolkata,West Bengal
+B00901,Jaipur Central Branch,Jaipur,Rajasthan
+B00901,Jodhpur Central Branch,Jodhpur,Rajasthan
+B01001,Lucknow Central Branch,Lucknow,Uttar Pradesh
+B01001,Noida Central Branch,Noida,Uttar Pradesh
